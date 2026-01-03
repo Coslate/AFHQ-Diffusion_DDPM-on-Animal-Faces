@@ -232,7 +232,7 @@ python main.py \
 
 ---
 
-## Results (drop images here)
+## Results
 
 Replace the placeholders below with artifacts from your runs.
 
